@@ -1,3 +1,5 @@
+# UPDATE: THE NEW VERSION OF THIS PROJECT CAN BE FOUND [HERE!](https://github.com/ishanc312/othelloOnline)
+
 # othelloWithBot
 This is a Python implementation of the classic board game Othello. It initially begins by receiving an input from the user asking if they want to play against an AI or not.
 
